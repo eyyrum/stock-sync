@@ -51,7 +51,7 @@ StockSync is a full-stack inventory management system that allows sellers to lis
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stocksync.git
+git clone https://github.com/eyyrum/stocksync.git
 cd stocksync
 ```
 
@@ -163,6 +163,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
+eyyrum - [GitHub Profile](https://github.com/eyyrum)
 
-Project Link: https://github.com/yourusername/stocksync 
+Project Link: https://github.com/eyyrum/stocksync 
