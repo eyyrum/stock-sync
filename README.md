@@ -51,8 +51,8 @@ StockSync is a full-stack inventory management system that allows sellers to lis
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/eyyrum/stocksync.git
-cd stocksync
+git clone https://github.com/eyyrum/stock-sync.git
+cd stock-sync
 ```
 
 2. Install backend dependencies:
@@ -165,4 +165,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 eyyrum - [GitHub Profile](https://github.com/eyyrum)
 
-Project Link: https://github.com/eyyrum/stocksync 
+Project Link: https://github.com/eyyrum/stock-sync 
